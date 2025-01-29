@@ -1,9 +1,10 @@
-import Conditional from "./conditionalrender/conditionalrender"
+import List from "./renderlist(map)/renderlist"
+
 
 
 function App() {
   return (
-    <Conditional Islogged={true} Username="Viswaa"  />
+    <List />
   )
 
 }
