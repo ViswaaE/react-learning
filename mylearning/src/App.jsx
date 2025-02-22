@@ -1,10 +1,10 @@
-import List from "./renderlist(map)/renderlist"
+import Mycomponent from "./usestate/mycomponent"
 
 
 
 function App() {
   return (
-    <List />
+    <Mycomponent />
   )
 
 }
